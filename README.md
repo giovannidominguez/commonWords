@@ -12,20 +12,22 @@ CommonWords is dependent on [Requests](https://2.python-requests.org/en/master/)
 defined methods are placed in the commonModule within the same directory
 
 # Installation
-To install Requests run command: 
-pip3.x install requests and/or
-
+## To install Requests run command: 
+```bash
+pip3.x install requests 
+```
+and/or
+```bash
 python3.x -m pip install
-
+```
 ## To run CommonWords: 
 ```python
 python3 commonWords.py
 ```
 
-CommonWordsBonus does the same as CommonWords but ignores the top 100
-words in the english language
-
 ## To run CommonWordsBonus:
 ```python
 python3 commonWordsBonus.py
 ```
+CommonWordsBonus does the same as CommonWords but ignores the top 100
+words in the english language
