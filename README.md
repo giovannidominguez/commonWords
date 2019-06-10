@@ -7,7 +7,7 @@ comments from each Hackernews post
 The files provided are commonWords.py, commonWordsBonus.py, and
 commonModule.py
 
-# DEPENDINCIES 
+# Dependencies
 CommonWords is dependent on [Requests](https://2.python-requests.org/en/master/) for python. User
 defined methods are placed in the commonModule within the same directory
 
