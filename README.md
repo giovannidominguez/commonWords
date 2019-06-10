@@ -4,6 +4,8 @@ API and returns to the console the top 100 most frequent words ranked
 along with their occurences from the top 30 stories and first 10
 comments from each Hackernews post
 
+Below is a preview of the output on the console
+
 ![Preview of output of top words on HackerNews](https://github.com/giovannidominguez/commonWords/blob/master/previewCommonWords.png)
 
 
