@@ -38,3 +38,13 @@ python3 commonWordsBonus.py
 ```
 CommonWordsBonus does the same as CommonWords but ignores the top 100
 words in the english language
+
+## TESTING
+Right now there are a few minor tests but will continue to add.
+Current tests check for correct output upon expected input.
+TODO: Add more edge cases for unexpected parameters 
+
+To run the tests: 
+```bash
+python3 -m unittest common_tests.py 
+```
